@@ -1,7 +1,7 @@
 # Used-Car-Quality-Evaluation-System
 
 
-#1:-INTRODUCTION 
+1:-INTRODUCTION 
   *  Many people get scammed while    buying a used car over the quality of the car they are buying.
   * The quality evaluation system helps one in confirming whether the car they are buying is worth it or not.
 
