@@ -10,7 +10,7 @@
  #Proposed System: 
 This system will detect the car, run it through its system and give us an analysis on whether the car acceptable or not. This system will be very useful to prevent scams by alerting the buyer on whether it’s a good deal or not and categorise the quality in unacceptable, acceptable, good or very-good.
 
-#3:- Project Description
+# 3:- Project Description
 * In this Python project, we will be using Sklearn for gathering the images from the input and feed them into a Deep Learning model which will classify whether the car’s quality is ‘Unacceptable’, ‘Acceptable’, ‘Good’, ‘Very good’. The approach we will be using for this Python project is as follows 
 Step 1 – Take image as input from the user. 
 Step 2 – Detect the car in the image and analyze the car. 
